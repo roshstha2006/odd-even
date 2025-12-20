@@ -3,7 +3,7 @@
 A simple Python program that checks whether a given number is **odd** or **even**.
 
 ## Features
-- Enter any integer
+- Any integer can be entered
 - Program prints whether the number is Odd or Even
 
 ## How to Run
